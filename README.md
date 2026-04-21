@@ -2,7 +2,7 @@
 
 A privacy-first webcam capture PWA that stamps every photo with a timestamp and street address — no cloud, no account, no tracking.
 
-**Live:** [cvpfus.github.io/capturestamp](https://cvpfus.github.io/capturestamp/)
+**Live:** [capturestamp.github.io/capturestamp](https://capturestamp.github.io/capturestamp/)
 
 ---
 
